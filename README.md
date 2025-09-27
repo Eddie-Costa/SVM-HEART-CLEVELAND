@@ -49,7 +49,7 @@ O modelo otimizado atingiu acurácia média > 88%, com redução de falsos negat
 
 Clone este repositório:
 
-git clone https://github.com/seuusuario/seu-repositorio.git
+git clone [https://github.com/Eddie-Costa/SVM-HEART-CLEVELAND.git]
 cd seu-repositorio
 
 
