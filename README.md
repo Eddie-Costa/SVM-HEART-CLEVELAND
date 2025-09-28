@@ -1,4 +1,4 @@
-🫀 Machine Learning em Saúde: Estudo com SVM no Reconhecimento de Doenças Cardíacas
+🫀 Machine Learning em Saúde: : Estudo com SVM no Reconhecimento de Doenças 
 
 Este repositório contém os códigos, experimentos e documentação relacionados ao estudo apresentado no 3º UMC SUMMIT de Pesquisa, Inovação e Extensão, que investigou o uso de Support Vector Machine (SVM) no diagnóstico de doenças cardíacas a partir do dataset Heart Disease Cleveland.
 
